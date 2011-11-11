@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<CommandBinding xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UpFast>81</UpFast>
+  <UpSlow>113</UpSlow>
+  <DownFast>69</DownFast>
+  <DownSlow>101</DownSlow>
+  <ZoomInFast>87</ZoomInFast>
+  <ZoomInSlow>119</ZoomInSlow>
+  <ZoomOutFast>83</ZoomOutFast>
+  <ZoomOutSlow>115</ZoomOutSlow>
+  <LeftFast>65</LeftFast>
+  <LeftSlow>97</LeftSlow>
+  <RightFast>68</RightFast>
+  <RightSlow>100</RightSlow>
+  <Pause>112</Pause>
+  <Coordinates>99</Coordinates>
+  <Wireframe>102</Wireframe>
+  <Tracking>116</Tracking>
+  <Exit>27</Exit>
+</CommandBinding>
